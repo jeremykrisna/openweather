@@ -1,0 +1,48 @@
+{
+    "coord": {
+        "lon": 106.8272,
+        "lat": -6.1754
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.89,
+        "feels_like": 303.81,
+        "temp_min": 300.28,
+        "temp_max": 301.67,
+        "pressure": 1016,
+        "humidity": 74,
+        "sea_level": 1016,
+        "grnd_level": 1012
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 170
+    },
+    "rain": {
+        "1h": 0.81
+    },
+    "clouds": {
+        "all": 66
+    },
+    "dt": 1790961088,
+    "sys": {
+        "type": 2,
+        "id": 2108225,
+        "country": "ID",
+        "sunrise": 1790980607,
+        "sunset": 1791024407
+    },
+    "timezone": 25200,
+    "id": 1631845,
+    "name": "Pecenongan",
+    "cod": 200
+}
