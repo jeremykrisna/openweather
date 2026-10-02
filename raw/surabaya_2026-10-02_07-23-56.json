@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 112.7378,
+        "lat": -7.246
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.12,
+        "feels_like": 299.12,
+        "temp_min": 299.12,
+        "temp_max": 299.12,
+        "pressure": 1015,
+        "humidity": 83,
+        "sea_level": 1015,
+        "grnd_level": 1014
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.54,
+        "deg": 230
+    },
+    "clouds": {
+        "all": 93
+    },
+    "dt": 1790900636,
+    "sys": {
+        "type": 1,
+        "id": 9363,
+        "country": "ID",
+        "sunrise": 1790892802,
+        "sunset": 1790936614
+    },
+    "timezone": 25200,
+    "id": 1625822,
+    "name": "Surabaya",
+    "cod": 200
+}
